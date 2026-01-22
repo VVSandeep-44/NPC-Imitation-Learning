@@ -1,0 +1,11 @@
+npc_imitation_project/
+│
+├── game.py              # Game environment
+├── collect_data.py      # Human plays + data saved
+├── train_model.py       # Train imitation model
+├── npc_play.py          # NPC plays using model
+├── data/
+│   └── human_data.csv
+├── model/
+│   └── imitation_model.pth
+└── README.md
