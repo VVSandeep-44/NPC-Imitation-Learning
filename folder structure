@@ -1,4 +1,4 @@
-npc_imitation_project/
+NPC-Imitation-Learning/
 │
 ├── game.py              # Game environment
 ├── collect_data.py      # Human plays + data saved
